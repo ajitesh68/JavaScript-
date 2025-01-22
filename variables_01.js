@@ -9,3 +9,4 @@ console.log(accountID)
 
 
 console.table([accountCity,accountEmail,accountID,accountPassword])
+console.log(accountEmail)
