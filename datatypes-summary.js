@@ -31,4 +31,24 @@ const muFunction = function(){
 console.log(typeof anotherID);
 
 
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//Stack {Primitive}, Heap {Non-Primitive}
 
+let myName = "ajiteshshukla"
+
+let anotherName = myName;
+
+console.log(myName)
+console.log(anotherName)
+
+let user1={
+    email:"ajiteshshukla@gmail.com",
+    upi:"agf@456789"
+}
+
+let user2=user1
+
+user2.email = "fdhg@gmail.com"
+
+console.log(user1)
+console.log(user2)
