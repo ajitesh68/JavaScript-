@@ -13,7 +13,7 @@ let age=18
 // Symbol => unique 
 
 console.log(typeof undefined)//undefined
-console.log(typeof null)//object
+console.log(typeof null)//object2
 
 
 
