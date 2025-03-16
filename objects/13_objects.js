@@ -22,3 +22,12 @@ navbar(company = "hitesh")
 
 
 //jab bhi apna kaam kisi aur ke sir pe daal dena hai toh usi ko API kehte hai
+
+
+[
+
+    {},
+    {},
+    {}
+]
+//JSON format
